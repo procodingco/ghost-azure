@@ -9,7 +9,7 @@ I documented my installation process, with additional steps to add Sendgrid, SSL
 In any case I suggest forking my repository into your own, this to avoid changes I make to my repository to negatively impact your installation.
 
 ### One-click deploy
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/?repository=https://github.com/procodingco/ghost-azure)
 [![Visualize](http://armviz.io/visualizebutton.png)](https://raw.githubusercontent.com/procodingco/ghost-azure/master/azuredeploy.json)
 
 ### Azure App Service Deployment Center
